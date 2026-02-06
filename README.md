@@ -1,1 +1,1 @@
-# Customer-Segmentation-using-RFM-Analysis-and-K-Means-Clustering
+# Customer Segmentation using RFM Analysis and K-Means Clustering
