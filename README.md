@@ -19,6 +19,8 @@ Convert transaction data into three behavioral attributes:
 
 ## Key Insights: Customer Personas
 
+By utilizing K-Means Clustering and RFM metrics, the model successfully identified 3 distinct customer segments, each representing a unique behavior and level of contribution to the business
+
 Average of RFM:
 
 ![Image Alt](https://github.com/chantakornchw-max/Customer-Segmentation-using-RFM-Analysis-and-K-Means-Clustering/blob/c6cfe8a7e150ee3525c21a13e3dee861da0bccc5/Average%20of%20RFM.png)
