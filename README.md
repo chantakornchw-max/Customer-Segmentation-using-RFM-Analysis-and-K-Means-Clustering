@@ -9,7 +9,7 @@ This project aims to segment customers of an online retail store based on their 
 
 ## The Analytical Approach
 
-We transformed transactional data into three behavioral features:
+Convert transaction data into three behavioral attributes:
 
 Recency (R): Days since the last purchase (lower is better).
 
