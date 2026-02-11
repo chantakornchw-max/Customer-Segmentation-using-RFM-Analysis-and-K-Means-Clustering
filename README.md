@@ -33,6 +33,8 @@ Revenue Propotion: The Gold segment serves as the primary revenue driver by cont
 
 ![Image Alt](https://github.com/chantakornchw-max/Customer-Segmentation-using-RFM-Analysis-and-K-Means-Clustering/blob/c6cfe8a7e150ee3525c21a13e3dee861da0bccc5/Revenue%20Propotion.png)
 
+### Summary:
+
 🟡 Gold (Cluster 1): This elite segment consists of 775 customers (17.87% of base) who are the primary engine of the business, contributing a massive 68.53% of total revenue. They exhibit exceptional engagement with the lowest average recency of 17.07 days and the highest frequency of 13.28 unique transactions. With a high average spend of £7,859.03, they represent the most loyal and profitable assets, requiring top-tier retention strategies to maintain their advocacy.
 
 ⚪ Silver (Cluster 2): Representing 1,694 customers (39.05% of base), this segment serves as a stable foundation for growth, accounting for 23.89% of total revenue. These customers show consistent behavior with an average recency of 44.36 days, a frequency of 3.37 transactions, and a moderate average spend of £1,253.15. Since they have already established a relationship with the brand, they are prime candidates for upselling and cross-selling campaigns to convert them into Gold-tier members.
