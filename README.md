@@ -1,5 +1,5 @@
 # Customer Segmentation using RFM Analysis and K-Means Clustering
-Check out the full analysis and code: [Customer Segmentation_K-Means.ipynb](https://github.com/chantakornchw-max/Customer-Segmentation-using-RFM-Analysis-and-K-Means-Clustering/blob/60888bc271d2de9eb7e5bc6f6dff42f601f1dd29/Customer%20Segmentation_K-Means.ipynb)
+Check out the full analysis and code: [Customer Segmentation_k-means.ipynb](https://github.com/chantakornchw-max/Customer-Segmentation-using-RFM-Analysis-and-K-Means-Clustering/blob/2478bb41e1f0071cb51e33eb656261af9c0cbcdd/Customer%20Segmentation_k-means.ipynb)
 
 Data Source: [Online Retail.xlsx](https://github.com/chantakornchw-max/Customer-Segmentation-using-RFM-Analysis-and-K-Means-Clustering/blob/557414c183478e70e8263c97da2e70c3a3da1329/Online%20Retail.xlsx)
 
