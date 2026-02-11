@@ -29,7 +29,7 @@ Cluster Propotion:
 
 ![Image Alt](https://github.com/chantakornchw-max/Customer-Segmentation-using-RFM-Analysis-and-K-Means-Clustering/blob/c6cfe8a7e150ee3525c21a13e3dee861da0bccc5/Cluster%20Propotion.png)
 
-Revenue Propotion:
+Revenue Propotion: The Gold segment serves as the primary revenue driver by contributing over 68% of total value.
 
 ![Image Alt](https://github.com/chantakornchw-max/Customer-Segmentation-using-RFM-Analysis-and-K-Means-Clustering/blob/c6cfe8a7e150ee3525c21a13e3dee861da0bccc5/Revenue%20Propotion.png)
 
