@@ -25,7 +25,7 @@ Average of RFM:
 
 ![Image Alt](https://github.com/chantakornchw-max/Customer-Segmentation-using-RFM-Analysis-and-K-Means-Clustering/blob/c6cfe8a7e150ee3525c21a13e3dee861da0bccc5/Average%20of%20RFM.png)
 
-Cluster Propotion:
+Cluster Propotion: Cluster 0 = 1,869 customers (43.08%), Cluster 1 = 775 customers (17.87%), and Cluster 2 = 1,694 customers (39.05%)
 
 ![Image Alt](https://github.com/chantakornchw-max/Customer-Segmentation-using-RFM-Analysis-and-K-Means-Clustering/blob/c6cfe8a7e150ee3525c21a13e3dee861da0bccc5/Cluster%20Propotion.png)
 
